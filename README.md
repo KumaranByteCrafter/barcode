@@ -14,9 +14,8 @@ This Python script generates EAN-13 barcodes and saves them as images.
     pip install python-barcode
 ```
 ## Usage
-1 .Run the script:
     ```sh
-          pip install python-barcode
+      pip install python-barcode
    ```
 2.Enter the number of barcodes you want to generate.
 3.Enter a 12-digit number for each barcode ID.
